@@ -26,6 +26,7 @@ chmod u+x examples.sh
 go build main.go
 ./examples.sh
 ```
+![Output](example.png)
 
 You can modify `./examples.sh` to add additional programs to the output.
 
