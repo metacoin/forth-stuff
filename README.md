@@ -40,3 +40,13 @@ fifth
 ```
 
 Alternatively you can `go run main.go` to access the repl through the `h8gi/fifth` library.
+
+## Why?
+
+This repo should help you understand the reverse polish notation language that Bitcoin script is modeled after. That language is called forth. Using the example script in this repo or by using the fifth repl you can try out different forth programs to better understand how Bitcoin script works.
+
+Follow along with this YouTube video and run the fifth repl interactively to see how it works! 
+
+https://www.youtube.com/watch?v=8FeAXjkmDcQ
+
+
